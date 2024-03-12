@@ -208,10 +208,5 @@
         "PLUM_22": "#000000",
         "PLUM_23": "#170005"
    },
-        "background": {
-        "blur": 0.1,
-        "url": "https://i.pinimg.com/564x/cd/ca/79/cdca79d448ac92087ade2225d363bbd3.jpg",
-        "alpha": 0.7
-    },
     "spec": 2
 }
