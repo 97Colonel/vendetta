@@ -1,10 +1,10 @@
 {
-    "name": "Cyberpunk 2077",
-    "description": "Theme built around Cyberpunk 2077 HUD",
+    "name": "Cyberpunk 2077 rework",
+    "description": "Original author - shion",
     "authors": [
       {
-        "name": "Shion",
-        "id": "499287211381096458"
+        "name": "Zeus",
+        "id": "727378306340487178"
       }
     ],
     "semanticColors": {
